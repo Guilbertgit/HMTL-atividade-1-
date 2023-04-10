@@ -10,7 +10,7 @@ channel = "stable-22_11"
 
 [languages.html]
 pattern = "**/*.html"
-  [languages.html.languageServer]
+  [languages.html. RS]
 start = "vscode-html-language-server --stdio"
   [languages.html.languageServer.initializationOptions]
   provideFormatter = true
